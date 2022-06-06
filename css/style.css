@@ -7,16 +7,12 @@
     color: black;
   }
   .jumbotron {
-  background-image: url(/images/logo-blank.png);
   background-size: cover;
   background-repeat: no-repeat;
   height: calc(75vh - 25px);
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.navbar {
-    background: url(/images/nav.png);
 }
 .card {
     position: relative;
